@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>essam ndi</title>
+    </head>
+    <body>
+        <h1>biographie de <strong>essam ndi</strong></h1>
+        <p><strong>essam ndi </strong> est un etudiant <em> camerounais</em> diplome de l'universite de yaounde 2 <strong> soa </strong>dans le domaine de l'economie</p>
+        <h1>passions</h1>
+        <p>il a pour passions <em> le sport,l'informatique,et la lecture</em></p>
+        <h1>ambitions</h1>
+        <p>il a des ambitions a court et a long terme</p>
+        <h2>ambitions a court terme</h2>
+        <p>terminer sa formations en <strong>developpement web</strong> et implementer ce qu'il a appris au quotidien</p>
+        <h2>ambitions a long termes</h2>
+        <p>etre <em>competitif </em> sur le marche de l'emploi et devenir un des meilleur dans son domaine</p>
+        
+        
+    </body>
+</html>
